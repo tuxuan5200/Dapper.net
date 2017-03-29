@@ -59,7 +59,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="JSON转换器\布尔转换器.cs" />
     <Compile Include="JSON转换器\枚举描述转换器.cs" />
     <Compile Include="JSON转换器\键值转换器.cs" />
